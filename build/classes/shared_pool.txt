@@ -1,0 +1,1 @@
+Query : select * from kendaraan join transactions using (id_kdr); projection : id_kdr name_kdr brand_kdr type_kdr price_kdr null null id_transaksi id_users id_kdr null null null null Join : (id_kdr) kendaraan cost : 1924.0 --BNLJ
